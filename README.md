@@ -1,0 +1,2 @@
+# CSC-101-Projects-
+This course introduces the student to the principles and theories of computation and information processing. The topics include hardware and software organization, data representation, algorithm development and networking principles. Special emphasis will be placed on creation of knowledge from data; the impact of computation on daily life; role of abstraction in solving problems; and implementation of algorithms on a variety of platforms including the Internet.
